@@ -1,0 +1,33 @@
+{
+  "manifest_version": "1.0",
+  "org": "python-trio",
+  "repo": "trio-talks",
+  "versions": [
+    {
+      "commit": "184aeb818b0395028941f43e769c120e94be0d5a",
+      "parsed_at": "2026-10-11T22:37:39.177319+00:00",
+      "filetree": "filetree/184aeb818b0395028941f43e769c120e94be0d5a.nq.gz",
+      "blobs": [
+        "blob/b51731fc53666ea5820abc04eb93b42738ba990b.nq.gz",
+        "blob/358f92e7e56a5169bb0b6b91eff1231ef212c43f.nq.gz",
+        "blob/fa3ab942cb80033f935ca1978eb996d5e3037ca0.nq.gz",
+        "blob/f38c5167733eb2fd1cb677450f876788a4aa603e.nq.gz",
+        "blob/0e259d42c996742e9e3cba14c677129b2c1b6311.nq.gz",
+        "blob/2b49eb7a6e3ab68d3421c9f82031a3b4b3e2c13c.nq.gz",
+        "blob/104c402ebf17ef55f9cdca2114f0a4449f6dd039.nq.gz",
+        "blob/1b1e801c846f76d561f689ba33b14f35748c78a3.nq.gz",
+        "blob/dfe316d24865c7af76d3667e2461200df1f60e8c.nq.gz",
+        "blob/31a676727a13ca3fc3bc9ff3b49d1ab0105eda6f.nq.gz",
+        "blob/0e93534a258c35aab939c924296f879e9226586b.nq.gz",
+        "blob/aad40037c646916c39b142e4648d34d89f0c14cb.nq.gz",
+        "blob/89123cfc54fd18ef90df8a405e9885065f184e28.nq.gz",
+        "blob/f8f6d9f21e84a4e108558d50d47913b8dec934a4.nq.gz",
+        "blob/8a3980ed6f0cc33c55e44bdfddae94a221d25c5b.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
