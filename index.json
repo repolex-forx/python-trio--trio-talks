@@ -1,0 +1,11 @@
+{
+  "org": "python-trio",
+  "repo": "trio-talks",
+  "versions": [
+    {
+      "commit": "184aeb818b0395028941f43e769c120e94be0d5a",
+      "tag": "",
+      "parsed_at": "2026-10-11T22:39:55.954989+00:00"
+    }
+  ]
+}
