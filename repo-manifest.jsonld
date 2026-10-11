@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/python-trio/trio-talks/commit/184aeb818b0395028941f43e769c120e94be0d5a",
       "git:hexsha": "184aeb818b0395028941f43e769c120e94be0d5a",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     }
   ]
 }
